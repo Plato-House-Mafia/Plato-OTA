@@ -1,1 +1,65 @@
+What's new / Apa yang baru / Что нового
 
+[ English ]
+
+Infinity X:
+• Finally all features from Infinity X 3.12 ported to 4.0
+• Fixed Always-On Display while charging
+• Fixed issues with the taskbar
+• Properly removed ongoing call and screen recording Android chips when Dynamic Island is showing
+• Removed duplicate incoming call heads-up notifications when Dynamic Island is active
+• Added back support for removing the emergency button from the power menu
+• Properly restored support for Ambient Pulse without overlapping lockscreen elements
+• Enabled blur effects on more surfaces
+• Added support for Icon Shapes
+
+Kernel:
+• MT6895 kernel sources by ESK Project
+• BORE CPU scheduler backported from 6.12
+• ThinLTO, PGO, BOLT, MLGO and Polly optimizations
+• Compiled with the latest Clang 23.0.1
+• And much more!
+
+---
+
+[ Bahasa Indonesia ]
+
+Infinity X:
+• Semua fitur dari Infinity X 3.12 akhirnya di-porting ke 4.0
+• Memperbaiki Always-On Display saat mengisi daya
+• Memperbaiki masalah pada taskbar
+• Menghapus chip status panggilan dan perekaman layar bawaan saat Dynamic Island aktif
+• Menghapus duplikasi notifikasi pop-up panggilan masuk saat Dynamic Island aktif
+• Mengembalikan opsi untuk menyembunyikan tombol darurat di menu daya
+• Memulihkan Ambient Pulse tanpa menumpuk elemen layar kunci
+• Mengaktifkan efek blur di lebih banyak antarmuka
+• Menambahkan dukungan untuk bentuk ikon (Icon Shapes)
+
+Kernel:
+• Source kernel MT6895 oleh ESK Project
+• BORE CPU scheduler di-backport dari 6.12
+• Optimasi ThinLTO, PGO, BOLT, MLGO, dan Polly
+• Dikompilasi dengan Clang 23.0.1 terbaru
+• Dan masih banyak lagi!
+
+---
+
+[ Русский ]
+
+Infinity X:
+• Все функции из Infinity X 3.12 окончательно портированы в 4.0
+• Исправлена работа Always-On Display во время зарядки
+• Устранены проблемы с таскбаром
+• Корректно скрываются чипы активного вызова и записи экрана при отображении Dynamic Island
+• Убраны дублирующиеся всплывающие уведомления входящего вызова при активном Dynamic Island
+• Возвращена возможность убрать кнопку экстренного вызова из меню питания
+• Восстановлена работа пульсации экрана (Ambient Pulse) без наложения на элементы экрана блокировки
+• Включены эффекты размытия (blur) на дополнительных элементах интерфейса
+• Добавлена поддержка выбора формы значков (Icon Shapes)
+
+Kernel:
+• Исходники ядра MT6895 от ESK Project
+• Планировщик BORE, бэкпортированный из 6.12
+• Оптимизации ThinLTO, PGO, BOLT, MLGO и Polly
+• Собрано на актуальном Clang 23.0.1
+• И многое другое!
